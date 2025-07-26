@@ -26,28 +26,6 @@ Ideal for restaurant owners or portfolio display. Highlights aesthetic branding 
 ![1](https://snipboard.io/aTGKi4.jpg)
 
 
-![2](https://snipboard.io/EU6ydv.jpg)
-
-
-![3](https://snipboard.io/Zg4pac.jpg)
-
-
-![4](https://snipboard.io/CzBVWd.jpg)
-
-
-
-![5](https://imgur.com/jvYryDw)
-
-
-
-![6](https://snipboard.io/RIsubr.jpg)
-
-
-
-
-![Footer](https://imgur.com/a/RqyoP61)
-
-
 
 
 ## 📁 Getting Started
