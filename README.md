@@ -23,14 +23,14 @@ Built mobile-first and tested across screen sizes for optimal viewing on phones,
 Ideal for restaurant owners or portfolio display. Highlights aesthetic branding while ensuring a smooth and intuitive user experience.
 
 ## 📸 Preview
-
+![Footer](https://imgur.com/a/RqyoP61)
 ![1](https://snipboard.io/aTGKi4.jpg)
 ![2](https://snipboard.io/EU6ydv.jpg)
 ![3](https://snipboard.io/Zg4pac.jpg)
 ![4](https://snipboard.io/CzBVWd.jpg)
 ![5](https://snipboard.io/1HPZYN.jpg)
 ![6](https://snipboard.io/RIsubr.jpg)
-![Footer](https://imgur.com/a/RqyoP61)
+
 
 
 
