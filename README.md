@@ -24,7 +24,7 @@ Ideal for restaurant owners or portfolio display. Highlights aesthetic branding 
 
 ## 📸 Preview
 
-[(./assest/Screenshot 2025-07-26 140725.png)](https://snipboard.io/aTGKi4.jpg)
+![Hero section](https://snipboard.io/aTGKi4.jpg)
 
 
 
