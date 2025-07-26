@@ -30,7 +30,7 @@ Ideal for restaurant owners or portfolio display. Highlights aesthetic branding 
 ![4](https://snipboard.io/CzBVWd.jpg)
 ![5](https://snipboard.io/1HPZYN.jpg)
 ![6](https://snipboard.io/RIsubr.jpg)
-![7](https://snipboard.io/30S26M.jpg)
+![Footer](https://snipboard.io/30S26M.jpg)
 
 
 
